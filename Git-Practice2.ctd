@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <bookmarks list=""/>
+  <node name="Parent 1" unique_id="1" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1709777474" ts_lastsave="1709777549">
+    <rich_text>This is the parent tree.</rich_text>
+    <node name="Child 1" unique_id="2" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1709777492" ts_lastsave="1709777496">
+      <rich_text>I am the child 1</rich_text>
+    </node>
+    <node name="Child 2" unique_id="3" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1709777514" ts_lastsave="1709777515">
+      <rich_text>I am the child 2</rich_text>
+    </node>
+  </node>
+  <node name="Parent 2" unique_id="4" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1709777532" ts_lastsave="1709777574">
+    <rich_text>I am parent 2</rich_text>
+    <node name="Child 2.1" unique_id="5" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1709777559" ts_lastsave="1709777581">
+      <rich_text>I am child 2.1</rich_text>
+    </node>
+    <node name="Child 2.2" unique_id="6" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1709777567" ts_lastsave="1709777567">
+      <rich_text>I am child 2.2</rich_text>
+    </node>
+  </node>
+</cherrytree>
