@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cherrytree>
   <bookmarks list=""/>
-  <node name="Parent 1" unique_id="1" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1709777474" ts_lastsave="1709791591">
+  <node name="Parent 1" unique_id="1" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1709777474" ts_lastsave="1709791587">
     <rich_text>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
-
-Token
 
 
 This is the parent tree.</rich_text>
